@@ -1,0 +1,9 @@
+﻿{
+    "commit":  "115b57456f4ab598120e8d8f9067176a0729b3a6",
+    "buildId":  "24334",
+    "branch":  "refs/heads/dev",
+    "targetSitecoreVersion":  "10.3",
+    "major":  2,
+    "builtOn":  "2025-10-15T13:17:57.9975295Z",
+    "semVersion":  "10.3.2.24334"
+}
